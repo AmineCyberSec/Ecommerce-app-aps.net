@@ -45,7 +45,7 @@ Khareedo.pk est un site consistant de commerce en ligne , il couvre tout les asp
 
 # Paiement 
 
-![image](https://user-images.githubusercontent.com/101675260/220190063-c2c16c41-d39d-46dc-9fdd-b7235c2760d8.png)
+![Sans titre](https://user-images.githubusercontent.com/101675260/220210963-041f7e08-b019-4a11-944f-1faf5ac1f6d7.png)
 
 ![image](https://user-images.githubusercontent.com/101675260/220190130-19685897-f7f3-48cb-9692-5052811ac76a.png)
 
