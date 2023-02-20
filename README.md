@@ -33,7 +33,27 @@ Khareedo.pk est un site consistant de commerce en ligne , il couvre tout les asp
 
 ![image](https://user-images.githubusercontent.com/101675260/220189473-28dd7eb7-a06e-4fb2-8236-ea14920f3326.png)
 
-# Affichage des details d'un produit (les produits/images/descriptions son extrait du site amazon)
+### Affichage des details d'un produit (les produits/images/descriptions son extrait du site amazon)
 
 ![image](https://user-images.githubusercontent.com/101675260/220189741-9c984bb0-b030-4e1d-ad01-8e72ee0be85e.png)
+
+# Panier
+
+![image](https://user-images.githubusercontent.com/101675260/220189893-3178e4b6-b390-4e81-96eb-8642f8bcc5a6.png)
+
+![image](https://user-images.githubusercontent.com/101675260/220189924-f1baf637-2f74-421b-be33-57044ab9ad01.png)
+
+# Paiement 
+
+![image](https://user-images.githubusercontent.com/101675260/220190063-c2c16c41-d39d-46dc-9fdd-b7235c2760d8.png)
+
+![image](https://user-images.githubusercontent.com/101675260/220190130-19685897-f7f3-48cb-9692-5052811ac76a.png)
+
+# Login de l'Admin
+
+![image](https://user-images.githubusercontent.com/101675260/220190205-c15c9336-24cf-4a13-ba5d-484e9796282a.png)
+
+### Dashboard de l'Admin contenant un historique des achats, les commandes en cours, les commandes livrés.
+
+![image](https://user-images.githubusercontent.com/101675260/220191041-145c367f-d2fc-4050-bb65-2115a92303cd.png)
 
