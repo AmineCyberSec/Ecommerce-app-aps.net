@@ -33,7 +33,7 @@ Khareedo.pk est un site consistant de commerce en ligne , il couvre tout les asp
 
 ![image](https://user-images.githubusercontent.com/101675260/220189473-28dd7eb7-a06e-4fb2-8236-ea14920f3326.png)
 
-### Affichage des details d'un produit (les produits/images/descriptions son extrait du site amazon)
+### Affichage des details d'un produit avec la fontionnalité d'ajouter au panier (les produits/images/descriptions son extrait du site amazon)
 
 ![image](https://user-images.githubusercontent.com/101675260/220189741-9c984bb0-b030-4e1d-ad01-8e72ee0be85e.png)
 
