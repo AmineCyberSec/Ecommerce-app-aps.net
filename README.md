@@ -12,6 +12,16 @@ Khareedo.pk est un site consistant de commerce en ligne , il couvre tout les asp
 
 ![image](https://user-images.githubusercontent.com/101675260/220188718-1ec85109-0a64-4264-8536-3fa5958d08bb.png)
 
+# Recherche un produit par son nom
+
+![image](https://user-images.githubusercontent.com/101675260/220188873-2d973df3-1e9b-4ab7-af5e-fb8cd547f944.png)
+
+![image](https://user-images.githubusercontent.com/101675260/220188906-f4eb5ecc-ba36-4106-9e2c-2962282b54a8.png)
+
+# Filtrage du prix 
+
+![image](https://user-images.githubusercontent.com/101675260/220188986-a8028d21-a066-4118-bac7-3d6ea28fdae0.png)
+
 
 Here is the Demo of Project. 
 https://www.youtube.com/watch?v=UAXuFtYy6-0
