@@ -1,10 +1,20 @@
 # E-Commerce-Website
 
-My recently develop project "E-Commerce Website" on ASP.NET MVC 5 using Entity Framework.
-This is generalize project you can customize as per your requirements.  Basically it consists of two parts first is Client Side(Website) and second is Admin Side(Control & Monitor ).
-It is complete project for sellers to sell your products through online and also advertise using this project.
+Ce projet a été réaliser par Med Amine Hifdi, Ismail Bouchghel, Elaouzi Abderrahmane
+
+Khareedo.pk est un site consistant de commerce en ligne , il couvre tout les aspects et fonctionnalités que peut avoir un site d'Ecommerce Classique. 
+
+# Page Principal
+
+![image](https://user-images.githubusercontent.com/101675260/220187204-35ce2f4c-eae9-44f3-b75e-3c853f5fe50f.png)
+
+![image](https://user-images.githubusercontent.com/101675260/220187615-ea9cefed-ef93-4cc1-9d3f-81795ebedab6.png)
+
 
 Here is the Demo of Project. 
 https://www.youtube.com/watch?v=UAXuFtYy6-0
+
+
+
 
 Thank you
