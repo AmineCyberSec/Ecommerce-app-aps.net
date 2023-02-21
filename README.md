@@ -1,6 +1,6 @@
 # E-Commerce-Website
 
-Ce projet a été réaliser par Med Amine Hifdi, Ismail Bouchghel, Elaouzi Abderrahmane du groupe G4
+Ce projet a été réaliser par Med Amine Hifdi, Ismail Bouchghel du groupe G4
 
 Khareedo.pk est un site consistant de commerce en ligne , il couvre tout les aspects et fonctionnalités que peut avoir un site d'Ecommerce Classique. 
 
