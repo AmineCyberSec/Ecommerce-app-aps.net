@@ -1,6 +1,6 @@
 # E-Commerce-Website
 
-# Page Principal
+## Page Principal
 
 ![image](https://user-images.githubusercontent.com/101675260/220187204-35ce2f4c-eae9-44f3-b75e-3c853f5fe50f.png)
 
